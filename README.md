@@ -1,2 +1,0 @@
-# Diagrama-clase-Entidades-
-BD 
